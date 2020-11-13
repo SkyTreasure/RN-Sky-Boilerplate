@@ -1,0 +1,12 @@
+{
+  "name": "rnskyboilerplate",
+  "displayName": "rnskyboilerplate",
+  "expo": {
+    "name": "rnskyboilerplate",
+    "slug": "rnskyboilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
